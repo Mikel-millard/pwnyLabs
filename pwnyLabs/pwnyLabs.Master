@@ -1,0 +1,33 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="pwnyLabs.master.cs" Inherits="pwnyLabs.pwnyLabs" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="topContent" style="background-color:black; height:50px; max-width:100%; text-align:center; margin-left: 10px;">
+            <h1 style="color:white">
+                <asp:Button ID="btnRegister" runat="server" Text="Register" style="width:60px; float:right; margin:10px;" />
+                <asp:Button ID="btnLogIn" runat="server" Text="Log In" style="width:60px; float:right; margin:10px;" />
+                <asp:TextBox ID="txtPassword" Text="Password" runat="server" style="width:100px; float:right; margin:10px;"></asp:TextBox>
+                <asp:TextBox ID="txtUserName" Text="Username" runat="server" style="width:100px; float:right; margin:10px;"></asp:TextBox>                
+                Welcome to pwnyLabs
+            </h1>        
+        </div>
+
+        <div id="mainContent">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+        <div id="footerContent" style="margin-left:10px; text-align:center; background-color:black; height:20px; max-width:100%; margin-top:300px; color:white">
+            @Copyright pwnyLabs 2017
+        </div>
+    </form>
+</body>
+</html>
