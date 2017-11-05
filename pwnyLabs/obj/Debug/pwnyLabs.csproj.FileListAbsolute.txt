@@ -7,3 +7,12 @@ C:\Users\Mikel Millard\source\repos\pwnyLabs\pwnyLabs\obj\Debug\pwnyLabs.csprojR
 C:\Users\Mikel Millard\source\repos\pwnyLabs\pwnyLabs\obj\Debug\pwnyLabs.csproj.CoreCompileInputs.cache
 C:\Users\Mikel Millard\source\repos\pwnyLabs\pwnyLabs\obj\Debug\pwnyLabs.dll
 C:\Users\Mikel Millard\source\repos\pwnyLabs\pwnyLabs\obj\Debug\pwnyLabs.pdb
+C:\Users\Mikel Millard\Documents\GitHub\pwnyLabs\pwnyLabs\obj\Debug\pwnyLabs.csprojResolveAssemblyReference.cache
+C:\Users\Mikel Millard\Documents\GitHub\pwnyLabs\pwnyLabs\obj\Debug\pwnyLabs.csproj.CoreCompileInputs.cache
+C:\Users\Mikel Millard\Documents\GitHub\pwnyLabs\pwnyLabs\obj\Debug\pwnyLabs.dll
+C:\Users\Mikel Millard\Documents\GitHub\pwnyLabs\pwnyLabs\obj\Debug\pwnyLabs.pdb
+C:\Users\Mikel Millard\Documents\GitHub\pwnyLabs\pwnyLabs\bin\pwnyLabs.dll.config
+C:\Users\Mikel Millard\Documents\GitHub\pwnyLabs\pwnyLabs\bin\pwnyLabs.dll
+C:\Users\Mikel Millard\Documents\GitHub\pwnyLabs\pwnyLabs\bin\pwnyLabs.pdb
+C:\Users\Mikel Millard\Documents\GitHub\pwnyLabs\pwnyLabs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mikel Millard\Documents\GitHub\pwnyLabs\pwnyLabs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml

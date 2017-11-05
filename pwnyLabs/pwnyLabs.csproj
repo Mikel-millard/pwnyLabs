@@ -67,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <Content Include="pwnyLabs.css" />
     <Content Include="pwnyLabs.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -78,6 +79,7 @@
   <ItemGroup>
     <Content Include="Default.aspx" />
     <Content Include="JavaScript.js" />
+    <Content Include="pwnyLabsLogo.png" />
     <Content Include="Register.aspx" />
     <Content Include="Web.config" />
     <Content Include="Welcome.aspx" />

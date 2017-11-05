@@ -13,5 +13,11 @@ namespace pwnyLabs
         {
 
         }
+
+        public TextBox EnterUsernameTextBox
+        {
+            get { return txtUserName;  }
+            set { txtUserName = value; }
+        }
     }
 }

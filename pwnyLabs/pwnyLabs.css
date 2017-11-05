@@ -1,0 +1,38 @@
+﻿.accountControls {
+    width: 100px;
+    float: right;
+    margin: 10px;
+}
+
+.divider
+{
+    width:10px;
+    background-color:yellow;
+    height:auto;
+    display:inline-block;
+}
+
+.header {
+    text-align: center;
+    background-color: black;
+    height: 50px;
+    max-width: 100%;
+    margin-left: 10px;
+}
+
+.footer {
+    margin-left: 10px;
+    text-align: center;
+    background-color: black;
+    height: 20px;
+    max-width: 100%;
+    margin-top: 300px;
+    color: white;
+}
+
+.logo {
+    margin-top: 150px;
+    margin-left: 300px;
+}
+
+

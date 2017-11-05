@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using System.Web.Security;
 
 namespace pwnyLabs
 {
@@ -11,7 +12,10 @@ namespace pwnyLabs
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            /*if (HttpContext.Current.User.Identity.IsAuthenticated)
+            {
+                Master.EnterUsernameTextBox() = HttpContext.Current.User.Identity.Name;
+            }*/
         }
     }
 }

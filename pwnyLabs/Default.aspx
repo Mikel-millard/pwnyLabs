@@ -2,5 +2,10 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server" >
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
-    This is the home page for pwnyLabs
+    <div>
+        This is the home page for pwnyLabs...
+    </div>
+    <div>
+        <asp:Image class="logo" ID="pwnyLabsLogo" ImageUrl="~/pwnyLabsLogo.png" runat="server" />
+    </div>
 </asp:Content>
